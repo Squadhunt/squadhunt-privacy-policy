@@ -1,1 +1,2 @@
 # squadhunt-privacy-policy
+hi
